@@ -1,20 +1,20 @@
-# 🚀 Virtual Memory Manager  
+#  Virtual Memory Manager  
 
 A **C-based Virtual Memory Manager** that simulates **paging and page replacement algorithms** (FIFO, LRU, LFU).  
 It integrates **demand paging with TLB caching**, optimizing memory access.  
 
-## 📢 Features  
+##  Features  
 ✅ **Paging Simulation** – Implements page tables and handles page faults.  
 ✅ **Page Replacement Algorithms** – Supports **FIFO, LRU, LFU** for performance comparison.  
 ✅ **Demand Paging** – Loads pages only when needed, improving efficiency.  
 
-## 🛠 Tech Stack  
-- 🏷️ **C**  
-- 🐧 **Linux**  
-- 📄 **Paging & Virtual Memory**  
-- 🔄 **FIFO, LRU, LFU**  
+##  Tech Stack  
+-  **C**  
+-  **Linux**  
+-  **Paging & Virtual Memory**  
+-  **FIFO, LRU, LFU**  
 
-## ⚙️ Installation & Setup  
+##  Installation & Setup  
 
 ### **1. Clone the Repository**  
 
